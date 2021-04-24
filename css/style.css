@@ -283,7 +283,7 @@ section{
 }
 .section-content .my-description .hexagon-inner-in{
 	border-radius: 45%;
-	background-image: url('../images/me2.jpg');
+	background-image: url('../images/me.jpg');
 	filter: contrast(150%);
 	background-size: contain;
 	background-position: center;
